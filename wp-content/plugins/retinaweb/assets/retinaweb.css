@@ -1,0 +1,82 @@
+p,li,th,td,input{
+    font-size: 15px;
+}
+#edit-slug-box, .row-actions .view{
+    display: none !important;
+}
+.settings-retinaweb, .about-retinaweb{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 99%;
+    min-height: 200px;
+    border: 1px solid #888;
+    margin-top: 15px;
+    margin-left: -5px;
+    padding: 20px;
+}
+.settings-retinaweb label{
+    display: block !important;
+}
+.settings-retinaweb .wp-editor-wrap{
+    width: 100%;
+}
+
+.settings-retinaweb .title, .about-retinaweb .title{
+    color: #000;
+}
+.settings-retinaweb hr, .about-retinaweb hr{
+    background-color: #bbb !important;
+    border: 1px solid #bbb !important;
+}
+.settings-retinaweb table{
+    width: 85em;
+    border-spacing: 0;
+}
+
+.settings-retinaweb table img{
+    height: 60px;
+    margin-left: 10px;   
+}
+
+.settings-retinaweb table img.slide{
+    margin-top: -30px;   
+}
+
+.settings-retinaweb input[type=number]{
+    width: 7em;
+    font-weight: 400;
+}
+.settings-retinaweb input[type=email],.settings-retinaweb input[type=text]{
+    width: 40em;
+    font-weight: 400;
+}
+.settings-retinaweb textarea{
+    width: 100%;
+    font-weight: 400;
+    margin-bottom: -3px;
+}
+
+.settings-retinaweb table td:nth-child(1),.settings-retinaweb table td:nth-child(3){
+    width: 4em;
+}
+
+.settings-retinaweb table td:nth-child(1) div{
+    text-align: center !important;
+    font-weight: 600;
+}
+.settings-retinaweb table td:nth-child(2){
+    width: 60em;   
+}
+.settings-retinaweb table td:nth-child(2) input{
+    width: 100%;
+}
+
+table#access th{
+    background-color: #1D2327;
+    color: #fff;
+}
+
+.postmeta-depoimento,.postmeta-vantagem{
+    width: 100%;
+}

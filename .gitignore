@@ -1,0 +1,7 @@
+# Wordpress - ignore core
+/wp-admin/
+/wp-includes/
+/*.php
+/*.txt
+/*.html
+/.htaccess
