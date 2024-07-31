@@ -32,6 +32,12 @@ a:hover {
   text-decoration: none;
 }
 
+@media (max-width: 768px) {
+  a.login {
+    margin-right: 30px;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: CircularSpotifyTxT-Med;
 }
@@ -703,7 +709,11 @@ section {
   background-color: #B22254;
 }
 
-
+@media (max-width: 768px) {
+  .advantages .advantage-wrap {
+    padding-left: 0px;
+  }
+}
 
 /*--------------------------------------------------------------
 # Testimonials Section

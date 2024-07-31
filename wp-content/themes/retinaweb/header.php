@@ -8,7 +8,7 @@
 	<meta content="" name="description">
 	<meta content="" name="keywords">
 	<!-- Favicons -->
-	<link href="<?php echo get_option('portal_input_11'); ?>" rel="icon">
+	<link href="<?php echo get_option('portal_input_1'); ?>" rel="icon">
 	<!-- Vendor CSS Files -->
 	<link href="<?php echo SITEPATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
 	<link href="<?php echo SITEPATH; ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
